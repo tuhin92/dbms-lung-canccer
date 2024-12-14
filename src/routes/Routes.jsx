@@ -16,6 +16,10 @@ const routes = createBrowserRouter([
             {
                 path: '/foods',
                 element: <About/>
+            },
+            {
+                path: '/contact',
+                element: "#"
             }
         ]
     },
